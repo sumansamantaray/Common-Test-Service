@@ -1,0 +1,25 @@
+﻿VSIB,,,,
+Environment,EC2 Stack Name,EC2 Hostname ,EC2 IP,LB URL
+VSIB DEV,VES-GYEV-DEV-VSIB-Nov-0001a,10-118-135-203.ebiz.suman.com,10.118.135.203,https://vsib-dev.ebiz.suman.com
+VSIB DEV2,VES-GYEV-DEV2-VSIB-Nov-0001a, 10-118-129-183.ebiz.suman.com  ,10.118.129.183,https://vsib-dev2.ebiz.suman.com
+,,,,
+VSIB SIT,VES-GYEV-SIT-VSIB-Nov-0001a,10-118-130-189.ebiz.suman.com,10.118.130.189,https://vsib-sit.ebiz.suman.com
+VSIB SIT2,VES-GYEV-SIT-VSIB2-Nov-0001a,10-118-135-205.ebiz.suman.com,10.118.135.205,https://vsib-sit2.ebiz.suman.com
+,,,,
+VSIB UAT,VES-GYEV-UAT-VSIB-Nov-0001a,10-118-128-24.ebiz.suman.com,10.118.128.24,https://vsib-uat.ebiz.suman.com
+VSIB UAT2,VES-GYEV-UAT2-VSIB-Nov-0001a,10-118-129-121.ebiz.suman.com,10.118.129.121,https://vsib-uat2.ebiz.suman.com
+,,,,
+VSIB STG,VES-GYEV-STG-VSIB-Nov-0001a,,,
+,VES-GYEV-STG-VSIB-Nov-0001a,,,
+,,,,
+VSIB PROD,VES-GYEV-PRD-VSIB-Nov-0001a,144-8-130-12.vpc.suman.com  ,144.8.130.12 ,https://vsib.suman.com
+,VES-GYEV-PRD-VSIB-Nov-0001a,144-8-136-244.vpc.suman.com ,144.8.136.244 ,
+,,,,
+,
+
+,
+,
+,
+,
+,
+
